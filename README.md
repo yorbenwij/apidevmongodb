@@ -39,5 +39,6 @@ als dit werkt weet je dat de connectie met de database werkt en kan je beginnen 
 ![img_12](https://github.com/yorbenwij/apidevmongodb/assets/91123168/d16373e9-dcff-4a00-91bf-d74595d0561b)
 ![img_13](https://github.com/yorbenwij/apidevmongodb/assets/91123168/2a43fabd-fffe-4746-94a9-3fc206649af0)
 ![img_14](https://github.com/yorbenwij/apidevmongodb/assets/91123168/b3f7d3f8-d9d0-4b3c-b413-1739870ddfaf)
+
 de screenshots hier boven tonen aan dat de endpoints die ik heb werken. nu kunnen we ook naar het dashboard gaan om naar de monitoring te kijken en daar gaan we zien dat er verschillende wirte's zijn.
 ![img_15](https://github.com/yorbenwij/apidevmongodb/assets/91123168/0847f826-5358-44ab-8ef3-39baf11b3539)
