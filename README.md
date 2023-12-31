@@ -11,7 +11,8 @@ hier zie je een voorbeeld van een collection in mijn mongodb database.
 
 dit is data dat in een collection zit die ik heb aangemaakt.
 mongodb atlas is een cloud platform dus moeten we op een andere manier gaan conecteren naar onze database.
-![img.png](img.png)
+![img](https://github.com/yorbenwij/apidevmongodb/assets/91123168/430ce314-7482-493e-bcf0-2627c46401fe)
+
 
 dit is onze database config file en zoals je kunt zien zit hier niet zo veel in zoals we een sql database zouden maken want we moeten onze database cluster eerst gaan aanmaken in de GUI van mondodb atlas. als we dit gedaan hebben krijgen we een connection string die er als volgt ongeveer uit ziet
 ### mongodb+srv://"gebruikersnaam":"wachtwoord"@"cluster-URL"/"databasenaam"
